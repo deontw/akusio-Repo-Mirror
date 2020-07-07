@@ -90,10 +90,10 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 208
 Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
 Filename: ./debs/jp.akusio.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53902
-MD5sum: 1fcba84ee0626f8992d999372ee6ec44
-SHA1: 51e5a0baad5af327de61d34980451fdda99ef4b9
-SHA256: 6a4f6d390f4dd470417f306df14ec299b009e98a5adb7495b193396843307b22
+Size: 53886
+MD5sum: 16215e3679d0e50c00f46af56a2ce41d
+SHA1: b215c92cbd349f14e54a0f9a6e61d417b1169c58
+SHA256: 6412eac6ad919b1f523a03115ae563cfe71ed63c498d1e11b1b661254dfb33f3
 Section: Tweaks
 Description: multitasking for iOS.
 Author: akusio <akusio-report@neko2.net>
