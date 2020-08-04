@@ -2,6 +2,6 @@
 
 akusio來源備份
 
-镜像来自Deon
+備份來自Deon
 
-源地址https://deontw.github.io/akusio-Repo-Mirror/
+地址https://deontw.github.io/akusio-Repo-Mirror/
