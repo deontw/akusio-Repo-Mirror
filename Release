@@ -1,8 +1,8 @@
 Codename: akusio
 Components: main
 Description: Mirror of akusio's Repository.
-Label: akusio repo
-Origin: akusio repo
+Label: akusio
+Origin: akusio
 Suite: stable
 Architectures: iphoneos-arm
 Version: 1.0
